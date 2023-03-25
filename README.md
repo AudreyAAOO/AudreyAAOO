@@ -32,6 +32,16 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la Jeu
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
       <br>Github
+        </td>
+   
+   
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="48" height="48" alt="React" />
+      <br>React
+        </td> 
+       
+       
+       
     </td>
   </tr>
   <tr>
