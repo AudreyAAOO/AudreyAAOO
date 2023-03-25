@@ -5,7 +5,7 @@
 
 
 <p align="justify"> 
-Je suis Audrey S.Carpentier, en recherche de stage pour devenir pleinement Développeuse Fullstack Javascript. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler. Si vous êtes un expert dans l'une des technologies suivantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider.</p>
+Je suis Audrey S.Carpentier, en recherche de stage pour devenir pleinement Développeuse Fullstack Javascript. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />. Si vous êtes un expert dans l'une des technologies suivantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /></p>
  
 <table align="right" border: "none">
   <tr>
@@ -30,7 +30,7 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
  <img src="https://res.cloudinary.com/dp28uacxh/image/upload/v1679771695/PortFolio-GitHub/LogosDivers/logoGlobalGoals_ewh7c3.svg" width="65" height="65">
  </a></div>
 <p align="justify"> 
- J'ai résumé mes responsabilités associatives dans un CV Citoyen.
+ J'ai résumé mes responsabilités associatives dans un CV Citoyen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" />.
 </p>
  
 ## Mes technologies préférées : ⚙️ 
