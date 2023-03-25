@@ -9,13 +9,15 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- 
+
 </div> 
 <p align="justify"> 
-Je suis Audrey S.Carpentier, en formation pour devenir Developpeuse Fullstack Javascript. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler. Si vous êtes un expert dans l'une des technologies suivvantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider. 
-Je suis en reconversion professionnelle, auparavant je travaillais dans le secteur culturel et associatif, j'ai animé plusieurs formations car j'aime transmettre mes connaissances, j'ai aussi 10 ans d'expérience en gestion de projet. IL y a plus longtemps encore, lorsque j'étais à l'université, j'ai créé des sites web en Action Script avec Flash et Php mySQL. J'ai tellement adoré ça ! 
+Je suis Audrey S.Carpentier, en recherche de stage pour devenir pleinement Développeuse Fullstack Javascript. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler. Si vous êtes un expert dans l'une des technologies suivantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider. 
+Je'ai fait une reconversion professionnelle, auparavant je travaillais dans le secteur culturel et associatif, j'ai animé plusieurs formations car j'aime transmettre mes connaissances, j'ai aussi 10 ans d'expérience en gestion de projet. IL y a plus longtemps encore, lorsque j'étais à l'université, j'ai créé des sites web en Action Script avec Flash et Php mySQL. J'ai tellement adoré ça ! 
  
-Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la Jeune Chambre Economique de Beauvais, où je participe à des actions d'entraide, d'inclusion, d'accès à la culture, aux soins etc.
+Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a href="https://www.jcef.asso.fr/">Jeune Chambre Economique de Beauvais</a>, où je m'investis dans des projets d'intérêt général qui doivent répondre à l'un des <a href="https://www.globalgoals.org/fr/">17 objectifs du développement durable fixés par l'ONU</a>.
+ <a href="https://www.globalgoals.org/fr/">   </a>
+ actions d'entraide, d'inclusion, d'accès à la culture, aux soins etc. J'ai résumé mes responsabilités associatives dans un CV Citoyen.
 </p>
 
 ## Mes technolgies préférées : ⚙️ 
