@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coucou+le+monde;Bienvenue+sur+mon+Github)](https://git.io/typing-svg)
 
 <div align="justify">
 
@@ -12,7 +12,7 @@
  
 </div> 
 <p align="justify"> 
-Bienvenue sur mon Github, je suis Audrey S.Carpentier, en formation pour devenir Developpeuse Fullstack Javascript. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler. Si vous êtes un expert dans l'une des technologies suivvantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider. 
+Je suis Audrey S.Carpentier, en formation pour devenir Developpeuse Fullstack Javascript. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler. Si vous êtes un expert dans l'une des technologies suivvantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider. 
 Je suis en reconversion professionnelle, auparavant je travaillais dans le secteur culturel et associatif, j'ai animé plusieurs formations car j'aime transmettre mes connaissances, j'ai aussi 10 ans d'expérience en gestion de projet. IL y a plus longtemps encore, lorsque j'étais à l'université, j'ai créé des sites web en Action Script avec Flash et Php mySQL. J'ai tellement adoré ça ! 
  
 Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la Jeune Chambre Economique de Beauvais, où je participe à des actions d'entraide, d'inclusion, d'accès à la culture, aux soins etc.
