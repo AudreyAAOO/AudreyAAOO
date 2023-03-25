@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there!" title="👋 Hi there!"/>
 
 <div align="justify">
  
