@@ -4,23 +4,21 @@
  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rzashakeri/">
+<a href="https://www.linkedin.com/in/audrey3010/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  
 </div> 
-<p></p>
 <p align="justify"> 
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+Bienvenue sur mon Github, je suis Audrey S.Carpentier, en formation pour devenir Developpeuse Fullstack Javascript. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler. Si vous êtes un expert dans l'une des technologies suivvantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider. 
+Je suis en reconversion professionnelle, auparavant je travaillais dans le secteur culturel et associatif, j'ai animé plusieurs formations car j'aime transmettre mes connaissances, j'ai aussi 10 ans d'expérience en gestion de projet. IL y a plus longtemps encore, lorsque j'étais à l'université, j'ai créé des sites web en Action Script avec Flash et Php mySQL. J'ai tellement adoré ça ! 
  
-
+Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la Jeune Chambre Economique de Beauvais, où je participe à des actions d'entraide, d'inclusion, d'accès à la culture, aux soins etc.
 </p>
 
-## My favorite tools and technologies ⚙️ 
-
-> Tools and technologies that I have worked with and am interested in
+## Mes technolgies préférées : ⚙️ 
 
 <table>
   <tr>
