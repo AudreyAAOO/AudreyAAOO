@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coucou+le+monde;Bienvenue+sur+mon+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coucou+le+monde,+bienvenue+sur+mon+Github)](https://git.io/typing-svg)
 
 <div align="justify">
 
