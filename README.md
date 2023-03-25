@@ -1,6 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coucou+le+monde,+bienvenue+sur+mon+Github)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=18&duration=4000&pause=1000&color=CF10CD&background=FFFFFF00&vCenter=true&width=435&lines=Coucou+le+monde%2C+bienvenue+sur+mon+GitHub+!)](https://git.io/typing-svg)
 <div align="justify">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,12 +15,14 @@ Je suis Audrey S.Carpentier, en recherche de stage pour devenir pleinement Déve
 Je'ai fait une reconversion professionnelle, auparavant je travaillais dans le secteur culturel et associatif, j'ai animé plusieurs formations car j'aime transmettre mes connaissances, j'ai aussi 10 ans d'expérience en gestion de projet. IL y a plus longtemps encore, lorsque j'étais à l'université, j'ai créé des sites web en Action Script avec Flash et Php mySQL. J'ai tellement adoré ça ! 
  
 Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a href="https://www.jcef.asso.fr/">Jeune Chambre Economique de Beauvais</a>, où je m'investis dans des projets d'intérêt général qui doivent répondre à l'un des <a href="https://www.globalgoals.org/fr/">17 objectifs du développement durable fixés par l'ONU</a>.
- <a href="https://www.globalgoals.org/fr/">   </a>
+ <a href="https://www.globalgoals.org/fr/">
+ <img src="https://res.cloudinary.com/dp28uacxh/image/upload/v1679771695/PortFolio-GitHub/LogosDivers/logoGlobalGoals_ewh7c3.svg">
+ </a>
  actions d'entraide, d'inclusion, d'accès à la culture, aux soins etc. J'ai résumé mes responsabilités associatives dans un CV Citoyen.
 </p>
 
-## Mes technolgies préférées : ⚙️ 
-
+## Mes technologies préférées : ⚙️ 
+<img src="">
 <table>
   <tr>
       <td align="center" width="96">
