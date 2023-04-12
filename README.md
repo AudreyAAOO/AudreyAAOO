@@ -40,7 +40,11 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
     </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        <br>React
+        <br>React.js
+    </td>
+  <td align="center"  width="96">
+        <img src="https://res.cloudinary.com/dp28uacxh/image/upload/v1681332622/PortFolio-GitHub/LogosTechnos/NodeJS_azp1q3.png" width="48" height="38" alt="HTML" />
+        <br>Node.js
     </td>
        <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -66,7 +70,6 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
   
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   + axios
 
@@ -80,11 +83,11 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
 + git
  
   
-
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 <div><p>Si vous êtes un expert dans l'une des technologies suivantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /></p></div>
