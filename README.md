@@ -14,14 +14,15 @@ Je suis Audrey S.Carpentier, en recherche de stage pour devenir pleinement Déve
    <td  align="left"><a href="https://www.linkedin.com/in/audrey3010/" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a></td>
+  
   </tr>
   </table>
-  
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="justify">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
+
 J'ai fait une reconversion professionnelle, auparavant je travaillais dans le secteur culturel et associatif, j'ai animé plusieurs formations car j'aime transmettre mes connaissances, j'ai aussi 10 ans d'expérience en gestion de projet. Il y a plus longtemps encore, lorsque j'étais en Master, j'ai créé des sites web en Action Script avec Flash et Php mySQL. J'ai tellement adoré ça ! 
 
 Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a href="https://www.jcef.asso.fr/">Jeune Chambre Economique de Beauvais</a>, où je m'investis dans des projets d'intérêt général qui doivent répondre à l'un des <a href="https://www.globalgoals.org/fr/">17 objectifs du développement durable fixés par l'ONU</a>.
@@ -44,7 +45,7 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
- 
+ <a href="https://www.codeur.com" target="_blank">Visiter Codeur.com</a>
 <table align="center">
   <tr>
     <td align="center" width="96">
