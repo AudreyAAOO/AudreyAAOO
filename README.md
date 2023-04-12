@@ -14,15 +14,6 @@ Je suis Audrey S.Carpentier, en recherche de stage pour devenir pleinement **Dé
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<table align="right" border: "none">
-  <tr>
-   <td align="right"><a href="https://www.linkedin.com/in/audrey3010/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=18&duration=4000&pause=1000&color=CF10CD&background=FFFFFF00&vCenter=true&width=435&lines=Contactez-moi+sur+Linkedin+%3E" alt="Typing SVG" /></a></td>
-   <td  align="left"><a href="https://www.linkedin.com/in/audrey3010/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a></td>
-  </tr>
-  </table>
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,6 +30,21 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
 <p align="justify"> 
  J'ai résumé mes responsabilités associatives dans un CV Citoyen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" />.
 </p>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ <table align="right" border: "none">
+  <tr>
+   <td align="right"><a href="https://www.linkedin.com/in/audrey3010/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=18&duration=4000&pause=1000&color=CF10CD&background=FFFFFF00&vCenter=true&width=435&lines=Contactez-moi+sur+Linkedin+%3E" alt="Typing SVG" /></a></td>
+   <td  align="left"><a href="https://www.linkedin.com/in/audrey3010/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a></td>
+  </tr>
+  </table>
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 ## Mes technologies préférées : ⚙️ 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
