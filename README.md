@@ -3,13 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=18&duration=4000&pause=1000&color=CF10CD&background=FFFFFF00&vCenter=true&width=435&lines=Coucou+le+monde%2C+bienvenue+sur+mon+GitHub+!)](https://git.io/typing-svg)
 
 
-
-<p align="justify"> 
+[justify]
 Je suis Audrey S.Carpentier, en recherche de stage pour devenir pleinement **Développeuse Fullstack Javascript**. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />.
+[/justify]
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=17&duration=3000&pause=1000&repeat=false&width=435&lines=Contactez-moi+sur+Linkedin+%3E%3E%3E)](https://www.linkedin.com/in/audrey3010/)<a href="https://www.linkedin.com/in/audrey3010/"><img alt="quitter Github pour Linkedin ?" src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,11 +27,6 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
 <p align="justify"> 
  J'ai résumé mes responsabilités associatives dans un CV Citoyen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" />.
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=17&duration=3000&pause=1000&repeat=false&width=435&lines=Contactez-moi+sur+Linkedin+%3E%3E%3E)](https://www.linkedin.com/in/audrey3010/)<a href="https://www.linkedin.com/in/audrey3010/"><img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
