@@ -5,8 +5,15 @@
 
 
 <p align="justify"> 
-Je suis Audrey S.Carpentier, en recherche de stage pour devenir pleinement **Développeuse Fullstack Javascript**. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /></p>
- 
+Je suis Audrey S.Carpentier, en recherche de stage pour devenir pleinement **Développeuse Fullstack Javascript**. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <table align="right" border: "none">
   <tr>
    <td align="right"><a href="https://www.linkedin.com/in/audrey3010/">
@@ -14,21 +21,20 @@ Je suis Audrey S.Carpentier, en recherche de stage pour devenir pleinement **Dé
    <td  align="left"><a href="https://www.linkedin.com/in/audrey3010/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a></td>
-  
   </tr>
   </table>
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<p align="justify">
 J'ai fait une reconversion professionnelle, auparavant je travaillais dans le secteur culturel et associatif, j'ai animé plusieurs formations car j'aime transmettre mes connaissances, j'ai aussi 10 ans d'expérience en gestion de projet. Il y a plus longtemps encore, lorsque j'étais en Master, j'ai créé des sites web en Action Script avec Flash et Php mySQL. J'ai tellement adoré ça ! 
 
 Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a href="https://www.jcef.asso.fr/">Jeune Chambre Economique de Beauvais</a>, où je m'investis dans des projets d'intérêt général qui doivent répondre à l'un des <a href="https://www.globalgoals.org/fr/">17 objectifs du développement durable fixés par l'ONU</a>.
  <div align="center">  
  <a href="https://www.globalgoals.org/fr/">
- <img src="https://res.cloudinary.com/dp28uacxh/image/upload/v1679771695/PortFolio-GitHub/LogosDivers/logoGlobalGoals_ewh7c3.svg" width="65" height="65">
+ <img src="https://res.cloudinary.com/dp28uacxh/image/upload/v1679771695/PortFolio-GitHub/LogosDivers/logoGlobalGoals_ewh7c3.svg" width="35" height="35">
  </a></div>
 <p align="justify"> 
  J'ai résumé mes responsabilités associatives dans un CV Citoyen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" />.
