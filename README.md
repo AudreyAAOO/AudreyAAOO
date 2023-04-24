@@ -9,7 +9,7 @@
 
 
 
-Je suis Audrey S.Carpentier, en recherche de stage pour devenir pleinement **Développeuse Fullstack Javascript**. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />.
+Je suis Audrey S.Carpentier, en recherche d'opportunités pour devenir pleinement **Développeuse Fullstack Javascript**. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
