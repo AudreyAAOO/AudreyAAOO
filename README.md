@@ -1,3 +1,4 @@
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -75,10 +76,10 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
   
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  + axios
-
-+ yup, formik + hot toast et react-toastify + tailwind css + redux toolkit + stripe + mailgun + git
+ ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) + axios
++ yup, formik 
++ hot toast et react-toastify + tailwind css 
++ redux toolkit + stripe + mailgun + git
  
   
 <div><p>Si vous êtes un expert dans l'une des technologies suivantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /></p></div>
