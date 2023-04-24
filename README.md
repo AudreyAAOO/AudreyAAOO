@@ -8,8 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=18&duration=4000&pause=1000&color=CF10CD&background=FFFFFF00&vCenter=true&width=435&lines=Coucou+le+monde%2C+bienvenue+sur+mon+GitHub+!)](https://git.io/typing-svg)
 
 
-
 Je suis Audrey S.Carpentier, en recherche d'opportunités pour devenir pleinement **Développeuse Fullstack Javascript**. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />.
+Je suis immédiatement disponible pour un stage, une alternance, un CDD ou CDI en présentiel et télétravail. Mobile sur toute la partie nord de la France (ou plus loin si présentiel occasionnel, ex: 1 semaine par mois).
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +31,7 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
 
 <p align="justify"> 
  J'ai résumé mes responsabilités associatives dans un CV Citoyen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" />.
-</p>
+<img src="https://res.cloudinary.com/dp28uacxh/image/upload/v1682368182/PortFolio-GitHub/CV_citoyen_Audrey_2023_nih7qq.png" alt="Brain" width="162" height="207" /></p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
@@ -78,14 +78,7 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   + axios
 
-+ yup
-+ formik
-+ hot toast et react-toastify
-+ tailwind css 
-+ redux toolkit
-+ stripe
-+ mailgun
-+ git
++ yup, formik + hot toast et react-toastify + tailwind css + redux toolkit + stripe + mailgun + git
  
   
 <div><p>Si vous êtes un expert dans l'une des technologies suivantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /></p></div>
