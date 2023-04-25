@@ -31,8 +31,8 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="justify"> 
- J'ai résumé mes responsabilités associatives dans un CV Citoyen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" />.
-<img src="https://res.cloudinary.com/dp28uacxh/image/upload/v1682368182/PortFolio-GitHub/CV_citoyen_Audrey_2023_nih7qq.png" alt="Brain" width="162" height="207" /></p>
+ J'ai résumé mes responsabilités associatives dans un CV Citoyen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" />
+<img src="https://res.cloudinary.com/dp28uacxh/image/upload/v1682422435/PortFolio-GitHub/Mod%C3%A8le_CV_citoyen_yow23f.png" alt="cv" width="162" height="207" /></p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
@@ -79,7 +79,7 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) + axios
 + yup, formik 
 + hot toast et react-toastify + tailwind css 
-+ redux toolkit + stripe + mailgun + git
++ redux toolkit + stripe + mailgun
  
   
 <div><p>Si vous êtes un expert dans l'une des technologies suivantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /></p></div>
