@@ -16,7 +16,7 @@ Je suis immédiatement disponible pour un stage, une alternance, un CDD ou CDI e
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Intéressé par mon profil ? Vous souhaitez lire mon CV en détails ?
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=17&duration=3000&pause=1000&repeat=false&width=435&lines=Contactez-moi+sur+Linkedin+%3E%3E%3E)](https://www.linkedin.com/in/audrey3010/)<a href="https://www.linkedin.com/in/audrey3010/"><img alt="quitter Github pour Linkedin ?" src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
