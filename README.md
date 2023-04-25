@@ -12,12 +12,14 @@
 Je suis Audrey S.Carpentier, en recherche d'opportunités pour devenir pleinement **Développeuse Fullstack Javascript**. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />.
 Je suis immédiatement disponible pour un stage, une alternance, un CDD ou CDI en présentiel et télétravail. Mobile sur toute la partie nord de la France (ou plus loin si présentiel occasionnel, ex: 1 semaine par mois).
 
-
+<p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Intéressé par mon profil ? Vous souhaitez lire mon CV en détails ?
-<a href="https://www.linkedin.com/in/audrey3010/"><img alt="quitter Github pour Linkedin ?" src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/audrey3010/"><img alt="quitter Github pour Linkedin ?" src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a></p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=17&duration=3000&pause=1000&repeat=false&width=435&lines=Contactez-moi+sur+Linkedin+%3E%3E%3E)](https://www.linkedin.com/in/audrey3010/)
-</a><br>
+
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
