@@ -75,7 +75,9 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) + axios
+ ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
+ ainsi que
++ axios
 + yup, formik 
 + hot toast et react-toastify + tailwind css + MUI
 + redux toolkit + stripe + mailgun
