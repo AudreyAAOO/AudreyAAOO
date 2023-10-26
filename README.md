@@ -70,14 +70,14 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
 ### et les technologies avec lesquels j'ai déjà travaillé : 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
+ ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ ![mySQL](https://img.shields.io/badge/mySQL-ffca28?style=for-the-badge&logo=mySQL&logoColor=black)
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-  
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) + axios
 + yup, formik 
-+ hot toast et react-toastify + tailwind css 
++ hot toast et react-toastify + tailwind css + MUI
 + redux toolkit + stripe + mailgun
  
   
