@@ -9,16 +9,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=18&duration=4000&pause=1000&color=CF10CD&background=FFFFFF00&vCenter=true&width=435&lines=Coucou+le+monde%2C+bienvenue+sur+mon+GitHub+!)](https://git.io/typing-svg)
 
 
-Je suis Audrey S.Carpentier, après une reconversion professionnelle je suis actuellement en poste en tant que **Développeuse Fullstack Javascript** en aternance. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />.
+Moi c'est Audrey, je suis actuellement en poste en tant que **Développeuse Fullstack Javascript** en aternance. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />.
 
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Intéressé par mon profil ? Vous souhaitez lire mon CV en détails ? Contactez-moi >>> 
-<a href="https://www.linkedin.com/in/audrey3010/"><img alt="quitter Github pour Linkedin ?" src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a></p>
+<!-- Intéressé par mon profil ? Vous souhaitez lire mon CV en détails ? Contactez-moi >>>  -->
+<!-- <a href="https://www.linkedin.com/in/audrey3010/"><img alt="quitter Github pour Linkedin ?" src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a></p> -->
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="justify">
 J'ai fait une reconversion professionnelle, auparavant je travaillais dans le secteur culturel et associatif, j'ai animé plusieurs formations car j'aime transmettre mes connaissances, j'ai aussi 10 ans d'expérience en gestion de projet. Il y a plus longtemps encore, lorsque j'étais en Master, j'ai créé des sites web en Action Script avec Flash et Php mySQL. J'ai tellement adoré ça !  <br>
@@ -28,13 +26,13 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<!-- 
 <p align="justify"> 
  J'ai résumé mes responsabilités associatives dans un CV Citoyen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" />
 <img src="https://res.cloudinary.com/dp28uacxh/image/upload/v1682712584/PortFolio-GitHub/Mod%C3%A8le_CV_citoyen_u2lble.png" alt="cv" width="162" height="207" /></p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
+ -->
 ## Mes technologies préférées : ⚙️ 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
