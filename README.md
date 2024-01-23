@@ -9,8 +9,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=18&duration=4000&pause=1000&color=CF10CD&background=FFFFFF00&vCenter=true&width=435&lines=Coucou+le+monde%2C+bienvenue+sur+mon+GitHub+!)](https://git.io/typing-svg)
 
 
-Je suis Audrey S.Carpentier, en recherche d'opportunités pour devenir pleinement **Développeuse Fullstack Javascript**. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />.
-Je suis immédiatement disponible pour un stage, une alternance, un CDD ou CDI en présentiel et télétravail. Mobile sur toute la partie nord de la France (ou plus loin si présentiel occasionnel, ex: 1 semaine par mois).
+Je suis Audrey S.Carpentier, après une reconversion professionnelle je suis actuellement en poste en tant que **Développeuse Fullstack Javascript** en aternance. Je suis curieuse et j'aime apprendre de nouvelles choses et en parler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />.
+
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
