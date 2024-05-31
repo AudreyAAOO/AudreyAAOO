@@ -21,7 +21,7 @@ Moi c'est Audrey, je suis actuellement en poste en tant que **Développeuse Full
 <p align="justify">
 J'ai fait une reconversion professionnelle, auparavant je travaillais dans le secteur culturel et associatif, j'ai animé plusieurs formations car j'aime transmettre mes connaissances, j'ai aussi 10 ans d'expérience en gestion de projet. Il y a plus longtemps encore, lorsque j'étais en Master, j'ai créé des sites web en Action Script avec Flash et Php mySQL. J'ai tellement adoré ça !  <br>
 
-Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a href="https://www.jcef.asso.fr/">Jeune Chambre Economique de Beauvais</a>, où je m'investis dans des projets d'intérêt général qui doivent répondre à l'un des <a href="https://www.globalgoals.org/fr/">17 objectifs du développement durable fixés par l'ONU. 
+Je suis une citoyenne engagée et je fais du bénévolat depuis 12 ans à la <a href="https://www.jcef.asso.fr/">Jeune Chambre Economique de Beauvais</a>, où je m'investis dans des projets d'intérêt général qui doivent répondre à l'un des <a href="https://www.globalgoals.org/fr/">17 objectifs du développement durable fixés par l'ONU. 
 <img src="https://res.cloudinary.com/dp28uacxh/image/upload/v1679771695/PortFolio-GitHub/LogosDivers/logoGlobalGoals_ewh7c3.svg" width="35" height="35">
 </a>
 
@@ -74,11 +74,14 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 11 ans à la <a 
  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
+ ![Dart](https://img.shields.io/badge/Dart-%234ea94b?style=for-the-badge) 
  ainsi que
 + axios
 + yup, formik 
 + hot toast et react-toastify + tailwind css + MUI
 + redux toolkit + stripe + mailgun
++ Firebase
++ 
  
   
 <div><p>Si vous êtes un expert dans l'une des technologies suivantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /></p></div>
