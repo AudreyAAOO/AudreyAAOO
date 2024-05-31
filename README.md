@@ -75,21 +75,21 @@ Je suis une citoyenne engagée et je fais du bénévolat depuis 12 ans à la <a 
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
  ![Dart](https://img.shields.io/badge/Dart-%234ea94b?style=for-the-badge) 
+ 
  ainsi que
 + axios
 + yup, formik 
 + hot toast et react-toastify + tailwind css + MUI
 + redux toolkit + stripe + mailgun
 + Firebase
-+ 
+  
  
   
 <div><p>Si vous êtes un expert dans l'une des technologies suivantes, contactez-moi, j'ai tant de questions ! Si vous êtes débutants comme moi, contactez-moi aussi, nous avons sans doute plusieurs points communs et nous pourrions nous entraider.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /></p></div>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audreyaaoo&layout=compact)](https://github.com/audreyaaoo/github-readme-stats)
-
+![Audreyaaoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=audreyaaoo&show_icons=true&theme=radical)
+![Audrey Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audreyaaoo&layout=compact)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
